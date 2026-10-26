@@ -7,7 +7,7 @@
 An advanced, feature-rich web calculator application built entirely from scratch. This project demonstrates extreme proficiency in vanilla structural programming, algorithmics, and heavy state management without the use of external UI or mathematical frameworks.
 
 ## 🔗 Live Demo
-Explore the fully operational application here: **[vscode-magic.github.io/Calculator](https://github.io)**
+Explore the fully operational application here: **[vscode-magic.github.io/Calculator]([https://github.io](https://vscode-magic.github.io/Calculator/))**
 
 ---
 

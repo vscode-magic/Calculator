@@ -1,17 +1,16 @@
 # 🧮 Advanced Universal Calculator
 
-# 🧮 Advanced Universal Calculator
+---
 
-<p align="left">
-  <a href="https://vscode-magic.github.io/Calculator/">
-    <img src="https://shields.io" alt="Live Demo">
-  </a>
-  <img src="https://shields.io" alt="JavaScript">
-  <img src="https://shields.io" alt="CSS3">
-  <img src="https://shields.io" alt="HTML5">
-</p>
+### 🛠️ Technologie i Stack:
+* **Język core:** 🟡 JavaScript (Vanilla ES6+)
+* **Warstwa wizualna:** 🔵 CSS3 (Responsive Design)
+* **Struktura dokumentu:** 🟠 HTML5 (Semantic elements)
+
+---
 
 An advanced, feature-rich web calculator application built entirely from scratch. This project demonstrates extreme proficiency in vanilla structural programming, algorithmics, and heavy state management without the use of external UI or mathematical frameworks.
+
 
 
 ## 🔗 Live Demo

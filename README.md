@@ -16,11 +16,11 @@
     <tr>
       <td align="center" valign="top" width="65%">
         <kbd><b>Wersja Desktop (Scientific / Programmer)</b></kbd><br><br>
-        <img src="image_3FjgzJ.png" alt="Desktop UI Preview" width="100%">
+        <img src="desktop-scientific.jpg" alt="Desktop UI Preview" width="100%">
       </td>
       <td align="center" valign="top" width="35%">
         <kbd><b>Wersja Mobile</b></kbd><br><br>
-        <img src="image_RNbvwZ.png" alt="Mobile UI Preview" width="100%">
+        <img src="mobile-view.jpg" alt="Mobile UI Preview" width="100%">
       </td>
     </tr>
   </table>

@@ -23,4 +23,4 @@ Day of Week	Determine the day of the week for any past or future date.
 
 #Link
 Here is link to calculator website
-https://panpietruszka.github.io/Calculator/
+https://vscode-magic.github.io/Calculator/

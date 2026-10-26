@@ -9,9 +9,26 @@
 
 ---
 
+## 📸 Podgląd aplikacji / Preview
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" valign="top" width="65%">
+        <kbd><b>Wersja Desktop (Scientific / Programmer)</b></kbd><br><br>
+        <img src="image_3FjgzJ.png" alt="Desktop UI Preview" width="100%">
+      </td>
+      <td align="center" valign="top" width="35%">
+        <kbd><b>Wersja Mobile</b></kbd><br><br>
+        <img src="image_RNbvwZ.png" alt="Mobile UI Preview" width="100%">
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
 An advanced, feature-rich web calculator application built entirely from scratch. This project demonstrates extreme proficiency in vanilla structural programming, algorithmics, and heavy state management without the use of external UI or mathematical frameworks.
-
-
 
 ## 🔗 Live Demo
 Explore the fully operational application here: **[vscode-magic.github.io/Calculator](https://vscode-magic.github.io/Calculator/)**
